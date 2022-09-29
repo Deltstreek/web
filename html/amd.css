@@ -1,0 +1,14 @@
+body{margin:0px; background-color: gray; width: 1346px;}
+.top{background-image: url(amdimg/bg.jpg); width: 1348px; height:671px; background-repeat: no-repeat; background-size: cover;}
+.headder{background: rgba(25,25,25,0.2); width: 1348; height: 40px; border:1px solid white; border-radius: 5px 5px 5px 5px; margin-left: 3px; margin-right: 3px;}
+.top div ul{text-align: center; margin-right: 350px;}
+.logo{width :80px; float:left; margin: 5px; margin-left: 20px; position: fixed; }
+h1{ width: 400px;color: white; margin-top: 200px; padding-left: 800px; }
+.top div ul li{ list-style: none; float: right; margin-right: 550px; padding-left: 30px; margin-right: 50px; position: relative;}
+.top div ul li a{ display: block; text-decoration: none; color:black; font-size: 20px; padding: 22px px; margin-left: 0px; color: white;}
+.top div ul li ul { display: none; position: absolute; background-color: #FFFF; margin: 0px; padding: 5px; border-radius: 0px 0px 4px 4px;}
+.top div ul li:hover{ padding: 2px;}
+.top div ul li:hover ul{display: block;}
+.top div ul li ul li{ width:105px; border-radius: 4px;}
+.top div ul li ul li a{ padding: 8px 14px; font-size: 15px; color: black;}
+.top div ul li ul li a:hover{background-color: #BABABA;}

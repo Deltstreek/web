@@ -1,0 +1,27 @@
+body{ background-color: white; margin: 0px;}
+nav{ background-color: #F5F5F5; height:50px;  width: 1348px;}
+.logo{ width: 35px; margin: 10px; margin-left: 80px; float: left; }
+.dash{ margin: 5px; float: left; margin-left: 50px; font-size: 30px; }
+.win_name{ width: 150px; margin: 13px; margin-left: 70px; }
+nav ul{ float: right; }
+nav ul li{ list-style: none; float: right; padding-left: 30px; margin-right: 50px; position: relative; }
+nav ul li a{ display: block; text-decoration: none; color:black; font-size: 20px; padding: 22px px; margin-left: 0px; }
+nav ul li ul { display: none; position: absolute; background-color: #FFFF; margin: 0px; padding: 5px; border-radius: 0px 0px 4px 4px; }
+nav ul li:hover{ background-color: #BABABA; padding: 2px; }
+nav ul li:hover ul{ display: block;}
+nav ul li ul li{ width:105px; border-radius: 4px; }
+nav ul li ul li a{ padding: 8px 14px; font-size: 15px; }
+nav ul li ul li a:hover{ background-color: #BABABA; }
+.full{ margin:10px; }
+.title{ width: 1348px; }
+.detail{ text-align: center; margin-top: 60px; border: 1px solid black; border-radius: 7px 7px 7px 7px; padding-right: 10px; padding-left: 10px; }
+h1{ text-align: center;}
+p{ font-size: 35px; font-style: bold;}
+hr{ margin: 20px; width: 1298px;}
+.changesimg{ float: left; width: 548px; margin-top: 50px;}
+.changes{ width: 737px; float: right; text-align: justify; border: 1px solid black; border-radius: 7px 7px 7px 7px; padding-right: 10px; padding-left: 10px; }
+.och{ height: 700px;}
+.fooder{ background-color: #E1E1E1; height: 50px; border: 2px solid black; margin: 5px;}
+.fooder h2:hover{ background-color: #BABABA; }
+.fooder h2{ float: right; padding: 0px 100px;}
+a{ text-decoration: none; color: black; } 
